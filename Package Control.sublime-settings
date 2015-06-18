@@ -1,0 +1,35 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autoprefixer",
+		"Better CoffeeScript",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ColorPicker",
+		"DevDocs",
+		"DocBlockr",
+		"Emmet",
+		"ERB Autocomplete",
+		"Grunt",
+		"Jade",
+		"Laravel Blade Highlighter",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"PlainTasks",
+		"Ruby on Rails snippets",
+		"Ruby Slim",
+		"SCSS",
+		"SFTP",
+		"SideBarGit",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}
